@@ -1,0 +1,9 @@
+[submodule "HCS-Backend"]
+	path = HCS-Backend
+	url = https://github.com/ngsinhhung/HCS-Backend.git
+[submodule "microservice-ai-diagnosis"]
+	path = microservice-ai-diagnosis
+	url = https://github.com/ngsinhhung/microservice-ai-diagnosis.git
+[submodule "HCS-frontend"]
+	path = HCS-frontend
+	url = https://github.com/ngsinhhung/HCS-frontend.git
