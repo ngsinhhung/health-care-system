@@ -74,5 +74,20 @@ Integrate model into hospital systems via HL7/FHIR -->
 - 🏫 Faculty: Computer Science, Ho Chi Minh Open University
 - 📅 Thesis Year: 2025
 
+## 🤝 Contributors ✨
+
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<a href="https://github.com/ngsinhhung/health-care-system/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ngsinhhung/health-care-system" />
+</a>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ## 📜 License
 This project is developed for academic research. Please contact the author for any questions regarding data use or extension.
